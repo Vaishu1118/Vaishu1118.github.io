@@ -1,0 +1,55 @@
+header{
+    background-color:#2C5F2D;
+    color: whitesmoke;
+    text-align: center;
+    padding: 5px;
+    border-style: groove;
+}
+section{
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px black;
+    border-style: groove;
+    /* border-radius: black; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img{
+    
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align:center;
+}
+input[type="email"],input[type="date"],input[type="numberi "],input[type="text"],input[type="link"]{
+    width: 98%;
+    padding: 5px;
+
+}
+input[type="description"]{
+    padding: 70px;
+    width: 30%;
+}
+input[type = "submit"]{
+    background-color: green;
+    text-shadow: 1cm;
+    width: 99%;
+    padding: 5px;
+}
+/* main{
+    background-color: lightgray;
+    background-size: cover;
+    
+} */
+ body{
+    background-color:#97BC62
+ }
+
